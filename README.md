@@ -13,3 +13,7 @@ FLAG: Gyrat rependo prius infans quam gradiendo.
 decrypt2.txt - команда, которой был задекрипчен флаг на Drupal вебсевере
 
 FLAG: Bene merenti bene profuerit, male merenti par erit.
+
+---
+topology:
+![](Topology.png)
