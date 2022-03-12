@@ -8,6 +8,7 @@ decrypt1.ps1 - повершелл скрипт для декода флага н
 
 FLAG: Gyrat rependo prius infans quam gradiendo.
 
+---
 
 decrypt2.txt - команда, которой был задекрипчен флаг на Drupal вебсевере
 
