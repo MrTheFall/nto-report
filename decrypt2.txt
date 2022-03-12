@@ -1,0 +1,1 @@
+openssl enc -d -aes-256-cbc -a -salt -in /var/www/html/30FLAG.txt.encr -out /var/www/html/flag2.txt -pass pass:AD54724854 -iv 24A590CEEEADE2D864CCBC3B9577BD94
